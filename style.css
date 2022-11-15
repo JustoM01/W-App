@@ -1,0 +1,39 @@
+h1{
+    background-color: darkblue;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+/* #hide, #hide2, #hide3, #hide4, #hide5 {
+    background-color: darkblue;
+    color: aliceblue;
+    display: inline-block;
+    margin-right: 10px;
+    float: right;
+    margin-bottom: 400px;
+    
+
+} */
+
+
+.current-Day{
+    position: relative;
+    bottom: 50px;
+    margin-left: 400px;
+    width: 600px;
+    height: 300px;
+    background-color: darkblue;
+}
+.hide-card{
+    background-color: darkblue;
+    color: aliceblue;
+    display: inline-block;
+    margin-right: 10px;
+   
+    margin-bottom: 400px;
+}
+
+.temp{
+    font-size: 55px;
+}
