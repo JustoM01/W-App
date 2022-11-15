@@ -18,6 +18,7 @@ h1{
 
 
 .current-Day{
+    color: aliceblue;
     position: relative;
     bottom: 50px;
     margin-left: 400px;
